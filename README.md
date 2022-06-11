@@ -1,5 +1,5 @@
 # Hi there 👋
-### My name is Lucila Arjona
+### I'm Lulú
 
 #### ✨ I'm a systems engineering student, I'm currently studying the cetified tech developer career ✨ 
 
