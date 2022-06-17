@@ -5,6 +5,7 @@
 
 ##### Connect with me
 ![Linkedin](www.linkedin.com/in/lucilaarjona)
+![Gmail](lucilaarjona09@gmail.com)
 
 <!--
 **lucilaarjona/lucilaarjona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
