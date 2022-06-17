@@ -4,7 +4,7 @@
 #### ✨ I'm a systems engineering student, I'm currently studying the cetified tech developer career ✨ 
 
 ##### Connect with me
-![www.linkedin.com/in/lucilaarjona](url)
+![in](www.linkedin.com/in/lucilaarjona)
 
 <!--
 **lucilaarjona/lucilaarjona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
