@@ -1,12 +1,11 @@
 # Hi there 👋
-### I'm Lulú :argentina:
+## I'm Lulú :argentina:
 
-#### ✨ I'm a systems engineering student, I'm currently studying the cetified tech developer career ✨ 
+**✨ I'm a systems engineering student, I'm currently studying the cetified tech developer career ✨**
 
 ##### Connect with me
-![www.linkedin.com/in/lucilaarjona](https://www.linkedin.com/in/lucilaarjona)
-
-![lucilaarjona09@gmail.com](https://lucilaarjona09@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lucilaarjona/)
+- [📧 lucilaarjona09@gmail.com](mailto:lucilaarjona09@gmail.com)
 
 
 
