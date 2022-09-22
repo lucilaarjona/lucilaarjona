@@ -4,9 +4,9 @@
 #### ✨ I'm a systems engineering student, I'm currently studying the cetified tech developer career ✨ 
 
 ##### Connect with me
-![www.linkedin.com/in/lucilaarjona](www.linkedin.com/in/lucilaarjona)
+![www.linkedin.com/in/lucilaarjona](https://www.linkedin.com/in/lucilaarjona)
 
-![lucilaarjona09@gmail.com](lucilaarjona09@gmail.com)
+![lucilaarjona09@gmail.com](https://lucilaarjona09@gmail.com)
 
 
 <!--
