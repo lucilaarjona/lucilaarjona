@@ -1,10 +1,13 @@
 # Hi there 👋
-### My name is Lucila Arjona
+### I'm Lulú :argentina:
 
 #### ✨ I'm a systems engineering student, I'm currently studying the cetified tech developer career ✨ 
 
 ##### Connect with me
-![www.linkedin.com/in/lucilaarjona](url)
+![www.linkedin.com/in/lucilaarjona](https://www.linkedin.com/in/lucilaarjona)
+
+![lucilaarjona09@gmail.com](https://lucilaarjona09@gmail.com)
+
 
 
 
